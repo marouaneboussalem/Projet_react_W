@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  margin: 30px;
+  padding: 20px;
+}
+
+.image-gallery img {
+  width: 50%;
+  height: 40%;
+  border-radius: 20px;
+}
+
+.image-item p {
+  text-align: center;
+  font-size: 14px;
+  color: black;
+}
+h1 {
+  color: aliceblue;
+}
+.buttonGal button {
+  margin: 30px;
+  width: 200px;
+  text-align: center;
+  height: 50px;
+  border-radius: 20px;
+  border: none;
+  background-color: #19bf9e;
+}
